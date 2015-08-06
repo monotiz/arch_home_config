@@ -1,0 +1,125 @@
+Aug 06 12:17 : errno: Failed to open /home/tmonti/.mpd/state: No such file or directory
+Aug 06 12:17 : errno: Failed to stat /home/tmonti/music: No such file or directory
+Aug 06 12:17 : avahi: Service 'Music Player' successfully established.
+Aug 06 12:18 : avahi: Service 'Music Player' successfully established.
+Aug 06 12:18 : client: [0] opened from [::1]:49882
+Aug 06 12:18 : alsa_mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Aug 06 12:18 : errno: Failed to stat /home/tmonti/music: No such file or directory
+Aug 06 12:20 : update: added /Black New York Tee.mp3
+Aug 06 12:20 : update: added /Guè Pequeno - Brivido ft. Marracash.mp3
+Aug 06 12:20 : update: added /Jake La Furia - Gli Anni DOro.mp3
+Aug 06 12:20 : update: added /Miley Cyrus - Wrecking Ball (Simon de Jano extended mix).mp3
+Aug 06 12:20 : update: added YT/Goodbye feat  Lyse   Feder HD.mp3
+Aug 06 12:20 : update: added YT/Calvin Harris & Alesso - Under Control ft. Hurts.mp3
+Aug 06 12:20 : update: added YT/D-Bag 'Pon Pon De'.mp3
+Aug 06 12:20 : update: added YT/PHIL COLLINS 'Against All Odds (Take a Look at Me Now)' 1984.mp3
+Aug 06 12:20 : update: added YT/Guè Pequeno - Brivido ft. Marracash.mp3
+Aug 06 12:20 : update: added YT/Power Francers - 'Dolce And Gabbana'.mp3
+Aug 06 12:20 : update: added YT/Katerfrancers - 'Lei Che Lo Vuole' (TwoFingerz Remix).mp3
+Aug 06 12:20 : update: added YT/Deorro - Yee (Official Video).mp3
+Aug 06 12:20 : update: added YT/Lost Frequencies - Are You With Me (Official Video).mp3
+Aug 06 12:20 : update: added YT/Dargen D'amico - Bocciofii (feat. Fedez e Mistico).mp3
+Aug 06 12:20 : update: added YT/Benny Benassi feat. Serj Tankian - Shooting Helicopters (Cover Art).mp3
+Aug 06 12:20 : update: added YT/Daddy's Groove feat. Teammate - Pulse (Official Video).mp3
+Aug 06 12:20 : update: added YT/Bill Conti - Vigil (Rocky II).mp3
+Aug 06 12:20 : update: added YT/Jeff Buckley - Hallelujah (Official Video).mp3
+Aug 06 12:20 : update: added YT/Beethoven's 5 Secrets - OneRepublic (Cello_Orchestral Cover) - ThePianoGuys.mp3
+Aug 06 12:20 : update: added YT/Two Fingerz - QUESTA MUSICA (Simon De Jano & Power Francers RMX).mp3
+Aug 06 12:20 : update: added YT/DILLON FRANCIS ft T.E.E.D - Without You (Official Video).mp3
+Aug 06 12:20 : update: added YT/Dillon Francis + Sultan & Ned Shepard - When We Were Young ft. The Chain Gang of 1974.mp3
+Aug 06 12:20 : update: added YT/Guè Pequeno - Scappati Di Casa.mp3
+Aug 06 12:20 : update: added YT/KaterFrancers - 'Bonita' Official Video.mp3
+Aug 06 12:20 : update: added YT/Yuna - Strawberry Letter 23.mp3
+Aug 06 12:20 : update: added YT/Impressioni di Settembre_ Marlene Kuntz ft Patti Smith.mp3
+Aug 06 12:20 : update: added YT/David Guetta - Dangerous (Lyric Video) ft Sam Martin.mp3
+Aug 06 12:20 : update: added YT/Bauer & Lanford - Leave Me Behind (Official Video).mp3
+Aug 06 12:20 : update: added YT/VITALIC - Second Lives (uncensored official).mp3
+Aug 06 12:20 : update: added YT/Fritz Da Cat - Bei Momenti ft. Fabri Fibra.mp3
+Aug 06 12:20 : update: added YT/Gabrielle Aplin - The Power of Love.mp3
+Aug 06 12:20 : update: added YT/Interstellar - Main Theme Extended (HD, Hans Zimmer).mp3
+Aug 06 12:20 : update: added YT/D-Bag 'La Distance'.mp3
+Aug 06 12:20 : update: added YT/Stromae - Papaoutai.mp3
+Aug 06 12:20 : update: added YT/Madonna - Ghost Town (Lyrics).mp3
+Aug 06 12:20 : update: added YT/The Black Soft - C B Robo - DINASTY (Spot Orologio Diesel 2013).mp3
+Aug 06 12:20 : update: added YT/Ghemon - Qualcosa per te (feat. Katerfrancers).mp3
+Aug 06 12:20 : update: added YT/My Chemical Romance - 'Welcome to the Black Parade'.mp3
+Aug 06 12:20 : update: added YT/The Avener, Kadebostany - Castle In The Snow.mp3
+Aug 06 12:20 : update: added YT/Power Francers - Issima.mp3
+Aug 06 12:20 : update: added YT/Nicky Romero & Anouk - Feet On The Ground (Official Music Video).mp3
+Aug 06 12:20 : update: added YT/Guè Pequeno - Tornare Indietro ft. Arlissa.mp3
+Aug 06 12:20 : update: added YT/Aaron Smith feat. Luvli - Dancin (Krono Remix) [Official Video].mp3
+Aug 06 12:20 : update: added YT/John Dahlbäck feat. Rebecca & Fiona - Honors (Cover Art).mp3
+Aug 06 12:20 : update: added YT/Phil Collins - I Wish It Would Rain Down (Official Video) VideoMusic.mp3
+Aug 06 12:20 : update: added YT/Lady Gaga - Do What U Want (Audio) ft. R. Kelly.mp3
+Aug 06 12:20 : update: added YT/Axwell _ Ingrosso - Something New (Lyric Video).mp3
+Aug 06 12:20 : update: added YT/SBCR (aka The Bloody Beetroots) - The Grid (Official Music Video) I Dim Mak Records.mp3
+Aug 06 12:20 : update: added YT/Power Francers - Io vorrei.mp3
+Aug 06 12:20 : update: added /Gu_Pequeno_-_Tornare_Indietro_ft_Arlissa.mp3
+Aug 06 12:20 : update: added /Dargen_D39Amico_Il_Presidente.mp3
+Aug 06 12:20 : update: added CD1/04 Chronicles Of A Fallen Love (feat. Greta Svabo Bech).mp3
+Aug 06 12:20 : update: added CD1/Katerfrancers - 05 - Girls Love Katerfrancers.mp3
+Aug 06 12:20 : update: added CD1/Lost Frequencies - Are You With Me (Official Video).mp3
+Aug 06 12:20 : update: added CD1/Benny Benassi feat. Serj Tankian - Shooting Helicopters (Cover Art).mp3
+Aug 06 12:20 : update: added CD1/Bill Conti - Vigil (Rocky II).mp3
+Aug 06 12:20 : update: added CD1/Jeff Buckley - Hallelujah (Official Video).mp3
+Aug 06 12:20 : update: added CD1/Yuna - Strawberry Letter 23.mp3
+Aug 06 12:20 : update: added CD1/Bauer & Lanford - Leave Me Behind (Official Video).mp3
+Aug 06 12:20 : update: added CD1/Interstellar - Main Theme Extended (HD, Hans Zimmer).mp3
+Aug 06 12:20 : update: added CD1/Stromae - Papaoutai.mp3
+Aug 06 12:20 : update: added CD1/Madonna - Ghost Town (Lyrics).mp3
+Aug 06 12:20 : update: added CD1/The Black Soft - C B Robo - DINASTY (Spot Orologio Diesel 2013).mp3
+Aug 06 12:20 : update: added CD1/Ghemon - Qualcosa per te (feat. Katerfrancers).mp3
+Aug 06 12:20 : update: added CD1/John Dahlbäck feat. Rebecca & Fiona - Honors (Cover Art).mp3
+Aug 06 12:20 : update: added CD1/Lady Gaga - Do What U Want (Audio) ft. R. Kelly.mp3
+Aug 06 12:20 : update: added CD1/03. Giorgio by Moroder.mp3
+Aug 06 12:20 : update: added /Tom_Day_Monsoonsiren_-_Love_Is_Rare[www.MP3Fiber.com].mp3
+Aug 06 12:20 : update: added Katerfrancers Mixtape/Katerfrancers - 07 - Impazzirei.mp3
+Aug 06 12:20 : update: added Katerfrancers Mixtape/Katerfrancers - 08 - Bumaye.mp3
+Aug 06 12:20 : update: added Katerfrancers Mixtape/Katerfrancers - 05 - Girls Love Katerfrancers.mp3
+Aug 06 12:20 : update: added Katerfrancers Mixtape/Katerfrancers - 10 - This Is Why'm Hot.mp3
+Aug 06 12:20 : update: added Katerfrancers Mixtape/Katerfrancers - 03 - Black Camo.mp3
+Aug 06 12:20 : update: added Katerfrancers Mixtape/Katerfrancers - 06 - Fresca E Manesca.mp3
+Aug 06 12:20 : update: added Katerfrancers Mixtape/Katerfrancers - 04 - VVMG.mp3
+Aug 06 12:20 : update: added Katerfrancers Mixtape/Katerfrancers - 02 - Giri Con Me.mp3
+Aug 06 12:20 : update: added Katerfrancers Mixtape/Katerfrancers - 09 - Tirami I Capelli.mp3
+Aug 06 12:20 : update: added Katerfrancers Mixtape/Katerfrancers - 01 - NienteXNiente.mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/04 Chronicles Of A Fallen Love (feat. Greta Svabo Bech).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/03 Runaway (feat. Greta Svabo Bech).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/12 The Source (Chaos & Confusion).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/11 Glow In The Dark (feat. Sam Sparro).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/02 Raw (feat. Tommy Lee).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/01 Spank (feat. Tai & Bart B More).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/07 Albion with Junior.mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/10 Please Baby (feat. P-Thugg of Chromeo).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/08 Reactivated.mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/06 Out Of Sight (feat. Paul McCartney & Youth).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/15 Volevo Un Gatto Nero (You Promised Me) (feat. Gigi Barocco).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/05 The Furious (feat. Penny Rimbaud).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/14 Rocksteady (The Bloody Beetroots vs. Gigi Barocco).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/09 All The Girls (Around The World) (feat. Theophilus London).mp3
+Aug 06 12:20 : update: added The_Bloody_Beetroots-Hide-2013/13 The Beat (feat. Peter Frampton).mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/01. Give Life Back to Music.mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/04. Within.mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/12. Doin' It Right (feat. Panda Bear).mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/06. Lose Yourself to Dance (feat. Pharrell Williams).mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/02. The Game of Love.mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/13. Contact.mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/07. Touch (feat. Paul Williams).mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/05. Instant Crush (feat. Julian Casablancas).mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/09. Beyond.mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/11. Fragments of Time (feat. Todd Edwards).mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/08. Get Lucky (feat. Pharrell Williams).mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/10. Motherboard.mp3
+Aug 06 12:20 : update: added Daft Punk - Random Access Memories (2013) 320/03. Giorgio by Moroder.mp3
+Aug 06 12:20 : update: added /Bauer_Lanford_-_Leave_Me_Behind_Official_Video.mp3
+Aug 06 12:20 : update: added /Hans Zimmer - Interstellar Main Theme.mp3
+Aug 06 12:20 : update: added /Capital_Cities_-_Kangaroo_Court_Official.mp3
+Aug 06 12:20 : update: added /The Black Soft - C B Robo - DINASTY (Spot Orologio Diesel 2013).mp3
+Aug 06 12:20 : update: added /DARGEN D'AMICO -- BOCCIOFILI con FEDEZ e MISTICO.mp3
+Aug 06 12:23 : client: [0] closed
+Aug 06 12:23 : avahi: Service 'Music Player' successfully established.
+Aug 06 12:23 : avahi: Service 'Music Player' successfully established.
+Aug 06 12:24 : avahi: Service 'Music Player' successfully established.
+Aug 06 12:24 : client: [1] opened from [::1]:49941
+Aug 06 12:24 : output: Failed to open mixer for 'default detected output'
+Aug 06 12:24 : client: [1] closed
